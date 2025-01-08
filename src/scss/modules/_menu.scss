@@ -1,0 +1,35 @@
+.menu-background {
+  background: #ffb500;
+  width: 1440px;
+  height: 40px;
+  flex-shrink: 0;
+  width: 100%;
+}
+.fish {
+  width: 759px;
+  height: 40px;
+  flex-shrink: 0;
+  background: #9c3;
+  box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.2) inset;
+  color: #fff;
+  text-align: center;
+  font-family: Raleway;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+.amphibiens {
+  color: #fff;
+  text-align: center;
+  font-family: Raleway;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  width: 380px;
+  height: 40px;
+  flex-shrink: 0;
+  background: #00a8b1;
+  box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.2) inset;
+}
